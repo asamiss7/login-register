@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color:#D1D7D3;
 }
@@ -27,34 +26,4 @@ body{
 
 h1,.para {
     text-align: center;
-=======
-body {
-background-color:#D1D7D3;
-}
-
-.main {
-background-color: lightgrey;
-border: #969A97 2px solid;
-padding: 20px;
-position: absolute;
-top: 50px;
-left: 400px;
-//box-shadow: inset 0 0 15px black;
-}
-
-.button {
-background-color: #1B9040;
-color: white;
-width:350px;
-height: 30px;
-line-height: 28px;
-padding: 2px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-}
-
-h1,.para {
-text-align: center;
->>>>>>> 6846d78bb70656da04c8211cde61b645c6a2ff6d
 }
